@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hey, nice to meet you 👋
+I am Pulkit Batra, a CSE Undergraduate from IIIT NAGPUR. I am a technology enthusiast with expertise in all major programming languages, including C/C++, Java, and Python. I began my coding career by learning C++ in class 11th and have been in the technology field ever since. 
+ 
+I am deeply passionate about software engineering and as the lone coder in my internship, I not only developed the entire application but also participated in brainstorming and producing a research paper. I am a quick learner and who takes responsibilities seriously.
+ 
+I practice regularly on geeksforgeeks and leetcode which has helped me improve my coding speed and understanding of data structures. Also, I have a keen interest in Machine Learning, Data Science and Natural Language Processing. Writing clean and robust code is my priority.
 <!--
 **pulkitb1/pulkitb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
