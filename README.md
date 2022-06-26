@@ -1,4 +1,5 @@
-# Hey, nice to meet you (virtually)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Hey, nice to meet you (virtually)!
+ <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> -->
 
 ## 🚀 About Me
 
